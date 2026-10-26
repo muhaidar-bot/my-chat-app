@@ -1,0 +1,10 @@
+{
+  "name": "bayyan ❤️ muhaidar",
+  "description": "Exclusive private lovers app for Muhaidar and Bayyan with real-time sync, photo and video sharing, shared live wallpaper, voice notes, stickers, and video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "notifications"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
